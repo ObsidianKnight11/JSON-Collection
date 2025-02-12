@@ -1,0 +1,166 @@
+{
+  "collection_name": "Legendary Video Game Weapons",
+  "description": "A curated collection of 20 iconic weapons from video games, showcasing their significance and visual representation.",
+  "items": [
+    {
+      "name": "Master Sword",
+      "game_of_origin": "The Legend of Zelda",
+      "description": "The legendary blade, capable of repelling evil and often required to defeat powerful enemies.",
+      "multimedia": {
+        "image": "images/mastersword.jpg"
+      }
+    },
+    {
+      "name": "Energy Sword",
+      "game_of_origin": "Halo",
+      "description": "A deadly close-combat weapon used by the elite warriors of the Covenant, known for its glowing plasma blades.",
+      "multimedia": {
+        "image": "images/energysword.jpg"
+      }
+    },
+    {
+      "name": "Frostmourne",
+      "game_of_origin": "World of Warcraft",
+      "description": "The cursed blade of the Lich King, capable of stealing the souls of those it slays.",
+      "multimedia": {
+        "image": "images/frostmourne.jpg"
+      }
+    },
+    {
+      "name": "Dragonbane",
+      "game_of_origin": "The Elder Scrolls V: Skyrim",
+      "description": "A unique katana imbued with enchantments to deal extra damage to dragons.",
+      "multimedia": {
+        "image": "images/dragonbane.jpg"
+      }
+    },
+    {
+      "name": "Mortal Blade",
+      "game_of_origin": "Sekiro: Shadows Die Twice",
+      "description": "A legendary crimson blade that can cut through immortality.",
+      "multimedia": {
+        "image": "images/mortalblade.jpg"
+      }
+    },
+    {
+      "name": "Blades of Chaos",
+      "game_of_origin": "God of War series",
+      "description": "A pair of chained blades imbued with fire, used to wreak havoc on enemies.",
+      "multimedia": {
+        "image": "images/bladeschaos.jpeg"
+      }
+    },
+    {
+      "name": "Sun Sword",
+      "game_of_origin": "Dark Souls II",
+      "description": "A well-balanced sword used by the Warriors of Sunlight covenant.",
+      "multimedia": {
+        "image": "images/sunsword.jpg"
+      }
+    },
+    {
+      "name": "Goldbrand",
+      "game_of_origin": "The Elder Scrolls IV: Oblivion",
+      "description": "A legendary katana, renowned for its golden blade and powerful fire enchantment.",
+      "multimedia": {
+        "image": "images/goldbrand.jpg"
+      }
+    },
+    {
+      "name": "Caliburn",
+      "game_of_origin": "Fire Emblem series",
+      "description": "A legendary sword known for its high critical hit rate and effectiveness against dragons.",
+      "multimedia": {
+        "image": "images/Caliburn.png"
+      }
+    },
+    {
+      "name": "Sword of Aeons",
+      "game_of_origin": "Fable",
+      "description": "A powerful, sinister sword that grants its wielder immense strength at a great moral cost.",
+      "multimedia": {
+        "image": "images/SwordAeons.jpg"
+      }
+    },
+    {
+      "name": "Farron Greatsword",
+      "game_of_origin": "Dark Souls III",
+      "description": "A unique ultra greatsword, combining it with a dagger allows for a fluid, dance-like combat style",
+      "multimedia": {
+        "image": "images/farronsword.jpg"
+      }
+    },
+    {
+      "name": "Great Knife",
+      "game_of_origin": "Silent Hill 2",
+      "description": "A massive and slow-moving blade wielded by Pyramid Head, symbolizing the main characters guilt and torment.",
+      "multimedia": {
+        "image": "images/greatknife.jpg"
+      }
+    },
+    {
+      "name": "Dragon Slayer",
+      "game_of_origin": "Berserk and the Band of the Hawk",
+      "description": "A massive sword wielded by Guts, capable of cutting through nearly anything with sheer force.",
+      "multimedia": {
+        "image": "images/dragonslayer.jpeg"
+      }
+    },
+    {
+      "name": "Dawnbreaker",
+      "game_of_origin": "The Elder Scrolls V: Skyrim",
+      "description": "A divine sword blessed by Meridia, dealing extra damage to undead foes.",
+      "multimedia": {
+        "image": "images/dawnbreaker.jpg"
+      }
+    },
+    {
+      "name": "Soulbrandt",
+      "game_of_origin": "Demon's Souls",
+      "description": "A cursed sword infused with the power of souls, designed to devour the essence of its victims.",
+      "multimedia": {
+        "image": "images/Soulbrandt.jpg"
+      }
+    },
+    {
+      "name": "Soul Edge",
+      "game_of_origin": "Soulcalibur series",
+      "description": "A malevolent, ever-hungry sword possessed by an insatiable desire to consume souls.",
+      "multimedia": {
+        "image": "images/Soulcalibur.jpeg"
+      }
+    },
+    {
+      "name": "Sword of Justice",
+      "game_of_origin": "Diablo III",
+      "description": "A mythical blade revered for its celestial aura and divine power.",
+      "multimedia": {
+        "image": "images/Justice.jpg"
+      }
+    },
+    {
+      "name": "Frostbrand",
+      "game_of_origin": "Terraria",
+      "description": "A magical ice-infused sword that shoots frost projectiles.",
+      "multimedia": {
+        "image": "images/Frostbrand.png"
+      }
+    },
+    {
+      "name": "Rivers of Blood",
+      "game_of_origin": "Elden Ring",
+      "description": "A blood-soaked katana infamous for its relentless bloodletting.",
+      "multimedia": {
+        "image": "images/Riversblood.jpg"
+      }
+    },
+    {
+      "name": "Holy Moonlight Sword",
+      "game_of_origin": "Bloodborne",
+      "description": "A transformed greatsword that glows with arcane energy, dealing massive damage.",
+      "multimedia": {
+        "image": "images/Moonlight.png"
+      }
+    }
+  ]
+}
