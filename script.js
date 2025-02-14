@@ -16,6 +16,7 @@ function displayWeapons(weapons) {
             <p><strong>Game:</strong> ${weapon.game_of_origin}</p>
             <p>${weapon.description}</p>
             <img src="${weapon.multimedia.image}" alt="${weapon.name}">
+            <p><a href="${weapon.wiki_link}" target="_blank">Learn more on the Wiki</a></p>
         `;
 
         container.appendChild(weaponCard);

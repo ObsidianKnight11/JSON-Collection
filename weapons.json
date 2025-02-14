@@ -8,7 +8,8 @@
       "description": "The legendary blade, capable of repelling evil and often required to defeat powerful enemies.",
       "multimedia": {
         "image": "images/mastersword.jpg"
-      }
+      },
+      "wiki_link": "https://zelda.fandom.com/wiki/Master_Sword"
     },
     {
       "name": "Energy Sword",
@@ -16,7 +17,8 @@
       "description": "A deadly close-combat weapon used by the elite warriors of the Covenant, known for its glowing plasma blades.",
       "multimedia": {
         "image": "images/energysword.jpg"
-      }
+      },
+      "wiki_link":"https://www.halopedia.org/Energy_sword"
     },
     {
       "name": "Frostmourne",
@@ -24,23 +26,26 @@
       "description": "The cursed blade of the Lich King, capable of stealing the souls of those it slays.",
       "multimedia": {
         "image": "images/frostmourne.jpg"
-      }
+      },
+      "wiki_link":"https://wowpedia.fandom.com/wiki/Frostmourne"
     },
     {
-      "name": "Dragonbane",
-      "game_of_origin": "The Elder Scrolls V: Skyrim (2011)",
-      "description": "A unique katana imbued with enchantments to deal extra damage to dragons.",
+      "name": "Folding Blade",
+      "game_of_origin": "Dishonored (2012)",
+      "description": "It's retractable blade that is both elegant and deadly. Its unique design allows it to collapse into the handle, making it perfect for stealthy assassinations and swift combat.",
       "multimedia": {
-        "image": "images/dragonbane.jpg"
-      }
+        "image": "images/Foldingblade.jpeg"
+      },
+      "wiki_link":"https://dishonored.fandom.com/wiki/Folding_Blade"
     },
     {
       "name": "Mortal Blade",
       "game_of_origin": "Sekiro: Shadows Die Twice (2019)",
-      "description": "A legendary crimson blade that can cut through immortality.",
+      "description": "A legendary katana, known to hold the power to sever the ties between life and death. It allows the wielder to vanquish immortal beings.",
       "multimedia": {
         "image": "images/mortalblade.jpg"
-      }
+      },
+      "wiki_link":"https://sekiroshadowsdietwice.wiki.fextralife.com/Mortal+Blade"
     },
     {
       "name": "Blades of Chaos",
@@ -48,7 +53,8 @@
       "description": "A pair of chained blades imbued with fire, used to wreak havoc on enemies.",
       "multimedia": {
         "image": "images/bladeschaos.jpeg"
-      }
+      },
+      "wiki_link":"https://godofwar.fandom.com/wiki/Blades_of_Chaos"
     },
     {
       "name": "Sun Sword",
@@ -56,7 +62,8 @@
       "description": "A well-balanced sword used by the Warriors of Sunlight covenant and is a reward by offering 20 Sunlight Medals",
       "multimedia": {
         "image": "images/sunsword.jpg"
-      }
+      },
+      "wiki_link":"https://darksouls2.wiki.fextralife.com/Sun+Sword"
     },
     {
       "name": "Goldbrand",
@@ -64,23 +71,26 @@
       "description": "A legendary katana, renowned for its golden blade and powerful fire enchantment.",
       "multimedia": {
         "image": "images/goldbrand.jpg"
-      }
+      },
+      "wiki_link":"https://en.uesp.net/wiki/Skyrim:Goldbrand"
     },
     {
-      "name": "Caliburn",
-      "game_of_origin": "Fire Emblem Heroes (2017)",
-      "description": "A legendary sword known for its high critical hit rate and effectiveness against dragons.",
+      "name": "Greatsword of Artorias",
+      "game_of_origin": "Dark Souls I (2011)",
+      "description": "A legendary blade, forged from the soul of Sif, the faithful companion of Knight Artorias. This mighty weapon, imbued with holy power, strikes fear into the hearts of dark entities",
       "multimedia": {
-        "image": "images/Caliburn.png"
-      }
+        "image": "images/Artorias.jpeg"
+      },
+      "wiki_link":"https://darksouls.wiki.fextralife.com/Greatsword+of+Artorias"
     },
     {
       "name": "Sword of Aeons",
-      "game_of_origin": "Fable (2004)",
+      "game_of_origin": "Fable I (2004)",
       "description": "A powerful, sinister sword that grants its wielder immense strength at a great moral cost.",
       "multimedia": {
         "image": "images/SwordAeons.jpg"
-      }
+      },
+      "wiki_link":"https://fable.fandom.com/wiki/Sword_of_Aeons"
     },
     {
       "name": "Farron Greatsword",
@@ -88,7 +98,8 @@
       "description": "A unique ultra greatsword, combining it with a dagger allows for a fluid, dance-like combat style",
       "multimedia": {
         "image": "images/farronsword.jpg"
-      }
+      },
+      "wiki_link":"https://darksouls3.wiki.fextralife.com/Farron+Greatsword"
     },
     {
       "name": "Great Knife",
@@ -96,7 +107,8 @@
       "description": "A massive and slow-moving blade wielded by Pyramid Head, and is used to combat various enemies in the game.",
       "multimedia": {
         "image": "images/greatknife.jpg"
-      }
+      },
+      "wiki_link":"https://silenthill.fandom.com/wiki/Great_Knife"
     },
     {
       "name": "Dragon Slayer",
@@ -104,7 +116,8 @@
       "description": "A massive sword wielded by Guts, capable of cutting through nearly anything with sheer force. It first appeared in the manga series Berserk, created by Kentaro Miura",
       "multimedia": {
         "image": "images/dragonslayer.jpeg"
-      }
+      },
+      "wiki_link":"https://berserk.fandom.com/wiki/Dragon_Slayer"
     },
     {
       "name": "Dawnbreaker",
@@ -112,7 +125,8 @@
       "description": "A divine sword blessed by Meridia, dealing extra damage to undead foes.",
       "multimedia": {
         "image": "images/dawnbreaker.jpg"
-      }
+      },
+      "wiki_link":"https://elderscrolls.fandom.com/wiki/Dawnbreaker_(Skyrim)"
     },
     {
       "name": "Soulbrandt",
@@ -120,7 +134,8 @@
       "description": "A cursed sword infused with the power of souls, designed to devour the essence of its victims.",
       "multimedia": {
         "image": "images/Soulbrandt.png"
-      }
+      },
+      "wiki_link":"https://demonssouls.wiki.fextralife.com/Soulbrandt"
     },
     {
       "name": "Soul Edge",
@@ -128,7 +143,8 @@
       "description": "A malevolent, ever-hungry sword possessed by an insatiable desire to consume souls.",
       "multimedia": {
         "image": "images/Soulcalibur.jpeg"
-      }
+      },
+      "wiki_link":"https://soulcalibur.fandom.com/wiki/Soul_Edge"
     },
     {
       "name": "Sword of Justice",
@@ -136,7 +152,8 @@
       "description": "A mythical blade revered for its celestial aura and divine power.",
       "multimedia": {
         "image": "images/Justice.jpg"
-      }
+      },
+      "wiki_link":"https://diablo.fandom.com/wiki/Sword_of_Justice"
     },
     {
       "name": "Frostbrand",
@@ -144,7 +161,8 @@
       "description": "A magical ice-infused sword that shoots frost projectiles.",
       "multimedia": {
         "image": "images/Frostbrand.png"
-      }
+      },
+      "wiki_link":"https://www.halopedia.org/Energy_sword"
     },
     {
       "name": "Holy Moonlight Sword",
@@ -152,7 +170,8 @@
       "description": "A transformed greatsword that glows with arcane energy, dealing massive damage.",
       "multimedia": {
         "image": "images/Moonlight.png"
-      }
+      },
+      "wiki_link":"https://bloodborne.wiki.fextralife.com/Holy+Moonlight+Sword"
     },
     {
       "name": "Rivers of Blood",
@@ -160,7 +179,8 @@
       "description": "A blood-soaked katana infamous for its relentless bloodletting.",
       "multimedia": {
         "image": "images/Riversblood.jpg"
-      }
+      },
+      "wiki_link":"https://eldenring.wiki.fextralife.com/Rivers+of+Blood"
     }
   ]
 }
